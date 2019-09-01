@@ -1,2 +1,5 @@
 # hello-world
-ideias e aleatoriedades
+
+Olá humanos,
+
+Comecei com Python mas agora escrevo em C
