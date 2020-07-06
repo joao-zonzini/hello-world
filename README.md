@@ -25,7 +25,7 @@
         <td class="tg-0lax"> simulador do problema de Monty Hall </td>
       </tr>
       <tr>
-        <td class="tg-0lax"> <a href="https://github.com/joao-zonzini/turnoff_bluetooth" target="_blank">MontyHall</a> </td>
+        <td class="tg-0lax"> <a href="https://github.com/joao-zonzini/turnoff_bluetooth" target="_blank">turnoff_bluetooth</a> </td>
         <td class="tg-0lax"> desliga o bluetooth se nada estiver conectado </td>
       </tr>
       <tr>
