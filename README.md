@@ -2,7 +2,6 @@
 
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br>
   <br>Olá humanos :wave:
   <br>Eu faço programas simples para facilitar minha vida no Linux :computer: , visualizar problemas matemáticos :telescope: e também joguinhos :video_game:. 
   <br><br>
